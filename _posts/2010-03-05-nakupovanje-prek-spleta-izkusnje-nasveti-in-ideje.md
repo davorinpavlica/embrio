@@ -30,9 +30,3 @@ Tu pa se seznam spletne nakupovalne mrzlice še ne konča, domene kupujem, kjer 
 ## Namesto zaključka
 
 Tako, sedaj veste … če imate še kakšno idejo, če bi radi kaj delili z menoj, če imate ideje česa se še dotakniti na morebitnem predavanju o nakupovanju, … komentarji spodaj več kot dobrodošli!
-
-#Heading
-
-> Cite
-
-[Description of a ](http://url.com)

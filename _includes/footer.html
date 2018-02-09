@@ -1,0 +1,41 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }} - <span class="">{{ site.tagline | escape }}</span></h2>
+
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            {% if site.github_username %}
+              {% include icon-github.html username=site.github_username %}
+            {% endif %}
+            </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          <li>
+            {% include icon-twitter.html username=site.twitter_username2 %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+    <small>&copy; 2002 - <time datetime="{{ site.time | date: '%Y' }}">{{ site.time | date: '%Y' }}</time> | Em3r10.com - od leta 2018 poganja <a href="http://jekyllrb.com/">Jekyll</a></small>
+
+  </div>
+
+</footer>

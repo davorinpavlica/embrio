@@ -1,0 +1,35 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title : Embrio
+tagline: Spletna mesta niso vasi
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  To je nekdaj bil blog, ki sta ga pisala @davorinpavlica in @gregorzalaznik. Ampak je server odletel nekje 2017 in zdaj se bodo zapisi čudežno pojavljali na strani.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: http://em3r10.com
+twitter_username: davorinpavlica
+twitter_username2: gregorzalaznik
+github_username: davorinpavlica
+instagram_username: davorinpavlica
+
+# Build settings
+markdown: kramdown
+theme: minima
+permalink: /:categories/:title
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

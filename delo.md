@@ -3,7 +3,7 @@ layout: page
 title: Delo
 permalink: /delo/
 ---
-Zavod Embrio je v preteklih letih sodeloval pri kar nekaj spletnih projektih, zato je predstavljenih samo nekaj najbolj referenčnih projektov, ki naj bi podajali nekakšen presek našega dela.
+Družbeniki (zdaj že bivšega) Zavoda Embrio so med leti 1999 in 2009 sodelovali pri kar nekaj spletnih projektih, zato je predstavljenih samo nekaj najbolj referenčnih projektov, ki naj bi podajali nekakšen presek našega dela.
 
 Spodaj si poglejte, kaj smo naredili in kaj smo delali v sklopu posameznih strani / portalov.
 
@@ -25,7 +25,7 @@ Flash postavitev / animacija.
 # Lipa Ajdovščina
 Postavitev spletne strani, uporabniška izkušnja in SUV*.
 
-#Amnesty International Slovenije
+# Amnesty International Slovenije
 Spletno oblikovanje in uporabniška izkušnja.
 
 # Zoran Predin

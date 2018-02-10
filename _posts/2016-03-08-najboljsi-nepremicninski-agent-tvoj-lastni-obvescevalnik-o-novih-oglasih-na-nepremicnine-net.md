@@ -43,7 +43,7 @@ Za obrazložitev: štos je da na nepremicnine.net poiščeš nepremičnino po sv
 
 V mojem primeru:
 
-* [http://www.nepremicnine.net/nepremicnine.html?p=1&n=1&t[]=6&t[]=7&t[]=8&t[]=9&t[]=10&t[]=43&t[]=36&r=14&ue[]=202&c2=174.000&m1=68&l1=68&s=16](nepremicnine.net)
+* [3 do 5-sobna stanovanja v Šiški do 174k €](https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/ljubljana-siska/stanovanje/3-sobno,3.5-sobno,4-sobno,4.5-sobno,5-in-vecsobno,apartma,drugo-36/cena-do-174000-eur,velikost-od-68-m2,letnik-od-68/?s=16)
 
 Držiš se navodilom v  Pastebinu, ko je feed narejen, moraš samo naštimat custom akcijo na IFTTT, da ti bo pošiljal mejle / notificiatione / … ko se objavi nov oglas.
 

@@ -7,7 +7,7 @@ author:		davorin
 tags: 		delo
 ---
 
-Ja, mamo, ja … in sicer je zaenkrat še Drupalov template, ampak to bo kmal spremenjeno. Samo še oblikovanja tem se naučimo in imiplementiramo NOVO grafično podobo spletne strani (v bistvu ni samo nova, je tudi prva 🙂.
+Ja, mamo, ja … in sicer je zaenkrat še Drupalov template, ampak to bo kmal spremenjeno. Samo še oblikovanja tem se naučimo in imiplementiramo NOVO grafično podobo spletne strani (v bistvu ni samo nova, je tudi prva 🙂).
 
 Skratka, Embrijotov pejdž bo kmalu nov in ne-več-singl-pejdž in kovačeva kobila ne bo več bosa.
 

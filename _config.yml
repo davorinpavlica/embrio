@@ -25,7 +25,6 @@ plugins:
 
 # Avtorji. Kot razloženo na
 # https://tosbourn.com/adding-author-to-jekyll-posts/
-
 davorin:
   name: Davorin Pavlica
   email: davorin@zvpl.com  

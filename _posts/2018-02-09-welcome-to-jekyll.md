@@ -3,6 +3,7 @@ layout:		post
 title:		"Spet en: živijo, svet ... oz. splet"
 date:		2018-02-09 09:45:18 +0100
 categories:	blogi davorin
+author:		davorin
 tags:		blog, offline, Wayback Machine
 ---
 

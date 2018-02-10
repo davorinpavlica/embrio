@@ -1,0 +1,10 @@
+{% assign author = site[page.author] %}
+{% if author %}
+  <span>
+    spisal <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+  </span>
+{% else %}
+  <span>
+    spisal Ad M. Inistrator
+  </span>
+{% endif %}

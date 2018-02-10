@@ -3,6 +3,7 @@ layout:		post
 title:		Embrio ma novo stran
 date:		2006-02-28 08:15:18 +0100
 categories:	blogi davorin
+author:		davorin
 tags: 		delo
 ---
 

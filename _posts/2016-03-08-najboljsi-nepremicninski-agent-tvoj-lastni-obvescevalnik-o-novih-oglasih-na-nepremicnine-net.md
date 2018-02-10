@@ -3,6 +3,7 @@ layout: 	post
 title:  	"Najboljši nepremičninski agent … tvoj lastni obveščevalnik o novih oglasih na nepremicnine.net"
 date:   	2016-03-08 08:01:42 +0100
 categories:	blogi davorin
+author:		davorin
 tags:		programiranje, splet, tehnologija, telefonija, nepremičnine, nepremicnine.net
 ---
 

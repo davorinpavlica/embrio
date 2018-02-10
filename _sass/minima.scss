@@ -2,14 +2,15 @@
 
 // Define defaults for each variable.
 
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$base-font-family: 'Nunito Sans', "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $base-font-size:   1.1rem !default;
 $base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
+$small-font-size:  $base-font-size * 0.7 !default;
+$base-line-height: 1.7 !default;
 
 $base-heading-family: Montserrat, "Helvetica Neue", sans-serif !default;
 $base-heading-weight: 700 !default;
+$base-heading-line-height: 1.1 !default;
 
 $base-paragraph-family: Merriweather, Georgia, serif !default;
 
@@ -22,12 +23,13 @@ $brand-color:      #2a7ae2 !default;
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
+$heavy-metal-grey: #666 !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    780px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-laptop:        760px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {

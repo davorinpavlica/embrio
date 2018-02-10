@@ -3,10 +3,9 @@ layout:     post
 title:      "#ffwdpro – bloganje v živo"
 date:       2013-06-10 16:01:42 +0100
 categories: blogi davorin
+author:     davorin
 tags:       splet, FFWD.Pro, konferenca
 ---
-
-#ffwdpro – bloganje v živo
 
 … ker že dolgo nisem (od leta 2008).
 

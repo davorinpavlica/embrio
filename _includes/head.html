@@ -6,7 +6,7 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,700,700i|Merriweather" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,700,700i|Merriweather|Nunito+Sans:100,200,400|Nunito" rel="stylesheet">
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">

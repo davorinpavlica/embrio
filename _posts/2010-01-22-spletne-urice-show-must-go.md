@@ -3,6 +3,7 @@ layout:     post
 title:      "Spletne urice – show must go!"
 date:       2010-01-22 14:01:42 +0100
 categories: blogi davorin
+author:		davorin
 tags:       wwwh, Spletne urice, kiberpipa
 ---
 

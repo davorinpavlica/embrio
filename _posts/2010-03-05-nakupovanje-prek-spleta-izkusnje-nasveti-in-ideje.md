@@ -3,6 +3,7 @@ layout:     post
 title:      "Nakupovanje prek spleta – izkušnje, nasveti in ideje …"
 date:       2010-03-05 22:01:42 +0100
 categories: blogi davorin
+author:		davorin
 tags:       splet, FFWD.Pro, konferenca
 ---
 

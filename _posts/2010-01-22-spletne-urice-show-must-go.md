@@ -19,11 +19,11 @@ Takle mamo, … bi bilo škoda, da gredo Spletne urice v anale zgodovine, poleg 
 
 Ampak … kot bi rekla moja velika vzornica, [Alma Brdžanovič](http://www.playboy.si:80/dekleta/playmate/alma-brdzanovic):
 
-> # “Show must go!”
+> ## “Show must go!”
 
 Zato z veseljem naznanjam še tu, da se bom potrudil, da bodo Spletne urice živele vsaj še do konca sezone, upam pa, da tudi v naslednji sezoni in dlje (odvisno od zanimanja za predavatelje, predavanja sama in odstotek predavanj, ki jih bomo moral zaradi odpovedi / nezanimanja / … predavati sam).
 
-## Zato: če bi želeli predavati na Spletnih uricah na temo svetovnega spleta, se javite …
+### Zato: če bi želeli predavati na Spletnih uricah na temo svetovnega spleta, se javite …
 
 (Preko [Twitterja](http://twitter.com/DavorinPavlica), [Facebooka](https://www.facebook.com/DavorinPavlica), Skypea,  če imate moj mejl [moje velecenjeno ime ali nadimek – afna – zvpl – pika - com] ali telefona (če ga imate, me pokličite ali pošljete SMS, če ne, poizkusite s kakšnim od zgoraj naštetih kanalov.)
 

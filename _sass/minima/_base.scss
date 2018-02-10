@@ -40,7 +40,7 @@ ul, ol, dl, figure,
 p, blockquote {
   font-family: $base-paragraph-family;
   margin-bottom: $spacing-unit / 2;
-  margin-left: $spacing-unit * 1.5;
+  margin-left: $spacing-unit * 1;
 }
 
 
@@ -72,7 +72,7 @@ figcaption {
  */
 ul, ol {
   font-family: $base-paragraph-family;
-  margin-left: $spacing-unit * 2.5;
+  margin-left: $spacing-unit * 2;
 }
 
 

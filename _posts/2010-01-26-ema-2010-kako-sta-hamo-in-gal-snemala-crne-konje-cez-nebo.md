@@ -9,4 +9,4 @@ tags:       EMA, Eurosong, Gal Gjurin, Črni konji čez nebo
 
 Letos bo EMA zagotovo drugačna.
 
-<iframe src="https://www.youtube.com/embed/IyjL0yDwGrU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{ % youtube IyjL0yDwGrU %}

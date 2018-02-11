@@ -233,6 +233,11 @@ pre {
 }
 
 
+/**
+ * Video container iframe responsive
+ * as described here https://coolestguidesontheplanet.com/videodrome/youtube/
+ */
+
 .video-container {
   position:relative;
   padding-bottom:56.25%;
@@ -241,11 +246,6 @@ pre {
   overflow:hidden;
 }
 
-
-/**
- * Video container iframe responsive
- * as described here https://coolestguidesontheplanet.com/videodrome/youtube/
- */
 .video-container iframe, .video-container object, .video-container embed {
   position:absolute;
   top:0;

@@ -11,7 +11,7 @@ Embrio, vaša četrta najljubša spletna stran*, spet živi. :)
 
 Juhuuu.
 
-Ker smo dobrega pol leta preživeli _offline_, je pravi čudež da stran spet deluje. Zaenkrat smo [iz arhiva](https://web.archive.org/web/20160815224546/http://www.em3r10.com/) prekopirali zadnje 5 zapise in čisto prva dva, tko za foro, da se vidi, da blog živi že od 2006. 
+Ker smo dobrega pol leta preživeli _offline_, je pravi čudež da stran spet deluje. Zaenkrat smo [iz arhiva](https://web.archive.org/web/20160815224546/http://www.em3r10.com/) prekopirali zadnjih ~~5 zapisov~~ nekajnajst in čisto prva dva, tko za foro, da se vidi, da blog živi že od 2006. 
 
 -- Peli
 

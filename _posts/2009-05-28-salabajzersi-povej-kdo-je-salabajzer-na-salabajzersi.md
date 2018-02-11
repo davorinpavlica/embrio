@@ -12,7 +12,7 @@ tags:		šalabajzer, šalabajzer.si
 Objava šalabajzerja je enostavna: registriraš se na salabajzer.si, se prijaviš v sistem (ki je WordPress, bajdvajd) in objaviš novega šalabajzerja.
 Še malo statistike
 
-Do danes so uporabniki objavili že 44 šalabajzerjev in napisali 98 komentarjev na šalabajzerizme, do danes pa naj je (vir: Google Analytics) obiskalo že 6,105 enkratnih obiskovalcev, ki so naklikali 20,079 ogledov strani. Za 14 dni delovanja zelo nešalabajzersko 😉
+Do danes so uporabniki objavili že 44 šalabajzerjev in napisali 98 komentarjev na šalabajzerizme, do danes pa naj je (vir: Google Analytics) obiskalo že 6,105 enkratnih obiskovalcev, ki so naklikali 20,079 ogledov strani. Za 14 dni delovanja zelo nešalabajzersko! 😉
 
 Če te kdo zamori, objavi šalabajzerja tudi ti!
 

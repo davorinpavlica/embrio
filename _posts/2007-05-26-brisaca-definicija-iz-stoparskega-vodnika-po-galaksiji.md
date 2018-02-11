@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "Brisača – definicija iz Štoparskega vodnika po Galaksiji"
+date:       2007-05-26 17:26:26 +0100
+categories: blogi davorin
+author:		davorin
+tags:		brisača, Štoparski vodnik po Galaksiji, knjige, Douglas Adams
+---
+
+Ker naja v MMAML-u včeraj [nihče ni prav zelo štekal](/blogi/davorin/dan-brisace-v-praksi), je spodaj citat iz knjige same, za vse nevedneže kako pomemben predmet za vsakega štoparja je brisača!
+
+> Štoparski vodnik po Galaksiji ve o brisačah povedati kar dosti stvari: Brisača, pravi, je takole približno naj – naj najkoristnejša stvar, ki si jo medzvezdni popotnik lahko omisli. Po eni plati ima veliko praktično vrednost – lahko jo ovije okrog sebe, da ga greje, ko prečka mrzle lune Bete Jaglana; na lesketajočih se plažah iz marmornega peska na Santraginusu V se lahko uleže nanjo in vdihava opojne morske hlape; na njej lahko spi pod zvezdarni, ki sijejo tako žareče rdeče na puščavskem Kakrafoonu; lahko jo razpne kot jadro na majhnem splavu in se odpelje po počasni težki reki Moth; mokro lahko uporabi kot orožje v boju z golimi rokami; lahko si jo ovije okrog glave, da se zaščiti pred škodljivimi izparinami ali da se obrani pogleda traalskega hroščatega krvoloka (neznansko neumna žival: če ga ne morete videti, sklepa, da tudi on ne vidi vas – zabit ko štor, ampak zelo zelo krvoločen); z njo lahko maha v stiski, da prikliče pomoč, in seveda se z njo lahko tudi obriše, če je še vedno dovolj snažna. Še mnogo pomembnejša je psihološka vrednost brisače. Je že tako, da vsak strag (strag: ne – popotnik), brž ko pri štoparju opazi brisačo, samodejno privzame, da poseduje štopar tudi zobno krtačko, flanelasto otiračo za obraz, milo, pločevinko keksov, čutarico, kompas, zemljevid, klobčič vrvice, razpršilec proti obadom, opremo za dež, vesoljski skafander itd itd. Še več, taisti strag bo tudi z veseljem posodil štoparju katerokoli od teh ali nadaljnjega ducata drugih stvari, ki jih je štopar po nesreči “izgubil”. Strag si namreč misli, da je vsakdo, ki je prepotoval Galaksijo podolgem in počez, se prebil skozi njene temačne kotičke, vzdržal v strahotno neenaki borbi s sovražnimi silami in jih končno tudi premagal, pri vsem tem pa še vedno ve, kje ima brisačo, očitno človek, s katerim je treba računati. Odtod tudi izraz, ki se je ustalil v štoparskem žargonu, kot na primer v zvezi “Hej, ti gnaš tega hupi Forda Prefecta? Tapravi frud, ve, kje ima brisačo.” (Gnaš, gnajti: poznati, vedeti za, srečati, spati z; hupi: kul tip; frud: res blazno kul tip.)
+
+Iz knjige [Štoparski vodnik po Galaksiji](https://zalozba-pivec.com/knjigarna/serija-stoparski-vodnik-po-galaksiji-2).

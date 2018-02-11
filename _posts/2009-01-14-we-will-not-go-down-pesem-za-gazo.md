@@ -4,7 +4,7 @@ title:      "We will not go down (pesem za Gazo)"
 date:       2009-01-14 20:18:28 +0100
 categories: blogi davorin
 author:		davorin
-tags:		vojna, politika, Gaza
+tags:		vojna, politika, Gaza, Palestina, YouTube
 ---
 
 [Michael Heart](http://www.michaelheart.com/) je napisal in posnel pesem za Gazo.

@@ -4,7 +4,7 @@ title:      "Dolgo časa, nič tipkanja … pa srečno 2010"
 date:       2010-01-15 12:24:42 +0100
 categories: blogi davorin
 author:		davorin
-tags:		blog, offline, Wayback Machine
+tags:		ŽVPL, blog, Adria Media, poroka, USA, ZDA, Žrebci, Zavod Embrio
 ---
 
 Ja, že dolgo časa nisem nič napisal na Em3r10.com. Na [ŽVPL](http://www.zvpl.com)-u tipkam bolj pogosto.

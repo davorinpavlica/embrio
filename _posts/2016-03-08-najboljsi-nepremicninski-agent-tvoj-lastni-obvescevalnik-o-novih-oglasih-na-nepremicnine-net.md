@@ -7,11 +7,7 @@ author:		davorin
 tags:		programiranje, splet, tehnologija, telefonija, nepremičnine, nepremicnine.net
 ---
 
-Kako si lahko takoj obveščen o novih stanovanjih na nepremicnine.net?
-
-Zadnjič sem videl, da nekdo (@barjanski) išče dobrega, zanesljivega agenta za iskanje nepremičnin. Ker sem (smo) stanovanje tudi sami iskali več kot leto dni in ker mi ga je iskalo tudi nebroj agencij / agentov, vam povem kako sem ga našel:
-
-Sam.
+Kako si lahko takoj obveščen o novih stanovanjih na nepremicnine.net? Zadnjič sem videl, da nekdo išče dobrega (ta nekdo je bil ([(@barjanski)](https://twitter.com/barjanski/)), zanesljivega agenta za iskanje nepremičnin. Ker sem (smo) stanovanje tudi sami iskali več kot leto dni in ker mi ga je iskalo tudi nebroj agencij / agentov, vam povem kako sem ga našel: **sam**.
 
 Z malo pomočjo RSS-a in IFTTT-ja.
 

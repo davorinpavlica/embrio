@@ -92,6 +92,7 @@ li {
 h1, h2, h3, h4, h5, h6 {
   font-family: $base-heading-family;
   line-height: $base-heading-line-height;
+  font-weight: $base-heading-weight;
 }
 
 
@@ -99,16 +100,18 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
+  transition: all 0.5s cubic-bezier(0.33, 0.66, 0.66, 1) 0s;
   color: $brand-color;
   text-decoration: underline;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: desaturate($brand-color, 24%);
   }
 
   &:hover {
-    color: darken($brand-color, 25%);
+    color: saturate($brand-triad-red, 78%);
     text-decoration: none;
+    border-bottom: 6px solid tint($brand-triad-red, 58%);
   }
 
   .social-media-list &:hover {

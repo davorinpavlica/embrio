@@ -3,10 +3,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title | escape }} - {{ site.title - site-tagline | escape }}{% else %}{{ site.title | escape }} - {{ site.tagline | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,700,700i|Merriweather|Nunito+Sans:100,200,400|Nunito" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather|Nunito+Sans:100,200,400,700|Nunito" rel="stylesheet">
+
+  
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100,300,400,700,700i,800&amp;subset=latin-ext" rel="stylesheet">
+
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">

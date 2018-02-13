@@ -11,22 +11,39 @@
 }
 
 .site-title {
-  @include relative-font-size(1.425);
-  font-weight: 300;
+  @include relative-font-size(1.24);
+  font-weight: 100;
   line-height: $base-line-height * $base-font-size * 2.5;
-  letter-spacing: -1px;
+  letter-spacing: -0.5px;
   margin-bottom: 0;
   float: left;
 
-  &,
-  &:visited {
-    color: $grey-color-dark;
+  &:hover {
+    color: $brand-triad-red;
   }
+}
+
+a.site-title {
+  color: black;
 }
 
 a.site-title, a.page-link {
   text-decoration: none !important;
 }
+
+.site-tagline {
+  @include relative-font-size(0.9);
+  font-weight: 100;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: lighten($grey-color-dark, 42%);
+  margin-left: 0.5em;
+
+  .italic {
+    text-transform: italic;
+  }
+}
+
 
 .site-nav {
   float: right;
@@ -43,7 +60,6 @@ a.site-title, a.page-link {
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
-
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
@@ -261,6 +277,31 @@ a.site-title, a.page-link {
   @include relative-font-size(2);
 }
 
+.read-more {
+  float: right;
+  margin: -0.8rem -0.8rem 0.8rem 0;
+  background-color: rgba($brand-color, .066);
+  padding: 0.5rem;
+  transform: rotate(1.2deg);
+  // transform: perspective( 1200px ) rotateY( 0deg );
+  // transform: rotateY( 1.2deg );
+  &:hover {
+    transform: rotate(0deg);
+  }
+}
+
+.read-more a {
+    overflow: hidden;
+    display: block;
+    transform: rotate(358.2deg);
+    text-decoration: none;
+
+    &:hover {
+          transform: rotate(360deg);
+    }
+
+ }
+
 
 
 /**
@@ -274,6 +315,7 @@ a.site-title, a.page-link {
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
+  font-weight: $base-heading-weight;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
@@ -307,3 +349,13 @@ a.site-title, a.page-link {
     }
   }
 }
+
+// main {
+//   p, blockquote, ul, ol {
+//     @include relative-font-size(1.2);
+
+//     @include media-query($on-laptop) {
+//       @include relative-font-size(1);
+//     }
+//   }
+// }

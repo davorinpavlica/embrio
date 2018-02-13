@@ -5,20 +5,21 @@
 $base-font-family: 'Nunito Sans', "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $base-font-size:   1.1rem !default;
 $base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.7 !default;
-$base-line-height: 1.7 !default;
+$small-font-size:  $base-font-size * 0.66 !default;
+$base-line-height: 1.8 !default;
 
-$base-heading-family: Montserrat, "Helvetica Neue", sans-serif !default;
+$base-heading-family: 'Montserrat', sans-serif;
 $base-heading-weight: 700 !default;
 $base-heading-line-height: 1.1 !default;
 
-$base-paragraph-family: Merriweather, Georgia, serif !default;
+$base-paragraph-family: 'Merriweather', Georgia, serif !default;
 
 $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+$brand-color:      #265695 !default;
+$brand-triad-red:  #A24439 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;

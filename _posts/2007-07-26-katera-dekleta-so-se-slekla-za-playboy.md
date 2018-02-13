@@ -15,8 +15,8 @@ Tole vprašanje je zgolj retorično, kajti na Playboy.si se arhiv deklet, ki so 
 
 To pomeni da je na [playboy.si/dekleta](https://www.playboy.si/dekleta/) za *slabih deset let* arhiva več tule. Hitro tja. Klikiti-klik! :) 
 
-<h3><a title="Maja Martina Merljak" href="http://www.playboy.si/dekleta/sanjsko-dekle/maja_martina_merljak-20736.aspx">Maja Martina Merljak</a></h3>
-<p><a title="Maja Martina Merljak" href="http://www.playboy.si/dekleta/sanjsko-dekle/maja_martina_merljak-20736.aspx"><img title="Maja Martina Merljak" src="http://i0.wp.com/www.playboy.si/media/cache/Photo/2008/12/11/m1-levo_article_image.jpg?w=840" alt="Maja Martina Merljak" data-recalc-dims="1"/></a></p>
+{% include girls.html %}
+
 <h3><a title="Michaela Grauke" href="http://www.playboy.si/dekleta/playmate/michaela_grauke-20061.aspx">Michaela Grauke</a></h3>
 <p><a title="Michaela Grauke" href="http://www.playboy.si/dekleta/playmate/michaela_grauke-20061.aspx"><img title="Michaela Grauke" src="http://i0.wp.com/www.playboy.si/media/cache/Photo/2008/11/13/01_6368__article_image.jpg?w=840" alt="Michaela Grauke" data-recalc-dims="1"/></a></p>
 <h3><a title="Tjaša Kokalj" href="http://www.playboy.si/dekleta/sanjsko-dekle/tjasa_kokalj-20064.aspx">Tjaša Kokalj</a></h3>

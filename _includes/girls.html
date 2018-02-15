@@ -1,4 +1,4 @@
 {% for girl in site.data.girls %}
 ### [{{ girl.name }}]({{ girl.url }})
-[![{{ girl.name }}]({{ girl.image }} "{{girl.name}} ")]({{ girl.url }})
+[![{{ girl.name }}]({{ girl.image }} "{{girl.name}}{% if girl.photo %} - foto {{girl.photo}}{% endif %}")]({{ girl.url }})
 {% endfor %}

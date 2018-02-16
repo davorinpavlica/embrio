@@ -7,7 +7,7 @@ author:		davorin
 tags:		Štoparski vodnik po Galaksiji, knjige, Douglas Adams, brisača
 ---
 
-#### … vsak pravi frud pa zagotovo ve, zakaj ga praznujemo, ostali pa poglejte lanski zapis, da si razširite obzorja!
+… vsak pravi frud pa zagotovo ve, zakaj ga praznujemo, ostali pa poglejte lanski zapis, da si razširite obzorja!
 
 Včeraj je bil Dan brisače (o prav posebnem prazniku [sem pisal že lani](http://em3r10.com/blogi/davorin/vesel-dan-brisace), vsak pravi frud pa zagotovo ve, zakaj ga praznujemo, ostali pa poglejte lanski zapis, da si razširite obzorja!
 

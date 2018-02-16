@@ -32,7 +32,3 @@ Pogled s strani
 Close up na tipkovnico
 
 ![Google Phone G1]({{ "/assets/imgs/google-phone-04.jpg" | absolute_url }} "Google Phone G1")
-
-~~Prvi iPhone ubijalec?~~
-
-![Google Phone G1]({{ "/assets/imgs/google-phone-g1-01.jpg" | absolute_url }} "Google Phone G1")

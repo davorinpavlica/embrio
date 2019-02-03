@@ -2,6 +2,8 @@
 layout: page
 title: Pod svobodnim soncem
 permalink: /pss/
+
+{: style="background:#040404;"}
 ---
 
 ## Pod svobodnim soncem

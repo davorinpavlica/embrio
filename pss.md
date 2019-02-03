@@ -4,7 +4,7 @@ title: Pod svobodnim soncem
 permalink: /pss/
 ---
 
-# Pod svobodnim soncem
+## Pod svobodnim soncem
 
 *Prva knjiga*
 
@@ -80,7 +80,7 @@ Obrazi so se zjasnili, roké so se oklenile mečev in kopij, završalo in zašum
 
 Starec je umolknil, kakor bi mu gnev zadrgnil grlo. Vojska je molčala – pa samo trenutek. Nato je zagrmelo, kakor bi izbruhnil vulkan iz osrčja zemlje. Gozdi kopij so se dvignili, polni tuli so zarožljali, tetive na lokih so zabrnele; visoko nad glavami so se bliskali meči. Če bi mignil, bi se utrgala ta vojska kakor plaz. Gole prsi bi se postavile kakor zid, bizantinski oklepi bi ječali pod sunki kopij, ki jih prožijo te strašne mišice. Krik je donel do neba, vse se je gibalo, kakor bi trgala zver verigo in hlepela, da plane in zmendra vse, kar sreča. Svarunovo lice pa se je smehljalo, sončni žarki so veselo trepetali v njegovih belih kodrih.
 
-# Drugo poglavje
+## Drugo poglavje
 
 Donava se je lesketala v medli mesečini. Valila se je in plazila, kakor bi se vila velikanska svetloluskinasta žival skozi visoko trstje in bičevje. Neslišno je polzélo mogočno vodovje. Da ni včasih pljusknilo iz vodé, da se ni ob bregu pripogibalo jelševje in trstje, bi človek ne sodil, da je to živa voda.
 
@@ -366,7 +366,7 @@ Zopet ovinek. Iztok je zapazil nekaj ognjev v daljavi.
 
 Divje je zakričal, vsi šotori so se prebudili, završalo in zašumelo je med vojščaki, rogovi so zatrobili. Iztokov vranec pa je zatrepetal in se s krčevitimi utripi zgrudil ob ognju; iz nozdrvi mu je brizgnila vroča kri.
 
-# Četrto poglavje
+## Četrto poglavje
 
 Ko je Azbad odšel iz Hilbudijevega šotora, je bilo že vse vojaštvo na delu. Stotniki in častniki so nadzorovali posamezne gruče, Hilbudij si je sam ogledal vse težko in lahko oborožene pešce, konjici je veleval sam in presojal opremo; marsikateremu vojščaku je preskusil sulico in meč, je li dosti nabrušen.
 
@@ -432,7 +432,7 @@ Ko so bile vse čete urejene, je opravil Svarun molitev; nato je dal znamenje in
 
 Ko je v jutro vstajala zarja, je šla Ljubinica iz gradišča in vse mladenke z njo; zbrale so se pod lipo ter darovale Perunu lepa jagnjeta za zmago očetov. Gradišče je čuvala majhna posadka, med njo godec Radovan, ki je čepel na okopih, stiskal plunko pod pázduho in strahoma poslušal, kaj bo. Bal se je krvi, vojni krik je »žalil njegovo pevsko uho«, kakor je sam trdil. Preudaril je natančno, kam pobegne z urnimi koraki, če pribežijo sli in naznanijo poraz Slovenov.
 
-# Peto poglavje
+## Peto poglavje
 
 Hilbudij je prekoračil čez noč ravnino in se naslonil v jutro s svojimi vojaki ob pobočje hriba, ob katerem se je odpirala soteska do gradišča Slovenov. Vse čete so se poskrile v gosto hrastičje. Prepovedal je ukresati ogenj, da bi si varili vojaki ječmenovo juho. Zato so jedli mrzlo, nekateri suhe ribe, drugi prekajeno meso, in prigrizovali česen.
 
@@ -514,7 +514,7 @@ Iztok je planil s strelci naprej po bregu. Konjica se je pravkar utrgala izmed g
 
 Noč je legla na zemljo. Po travi so tekle kaluže krvi, vzdihi so ječali do neba, Sloveni pa so peli divje davorije, da je donelo pod jasno svobodno nebo.
 
-# Šesto poglavje
+## Šesto poglavje
 
 Zmagovalci so zapalili ognje in se zbrali v velikih tolpah okrog njih. Z ogorki so iztikali potem po dolini in iskali svojcev, katerih so pogrešali.
 
@@ -636,7 +636,7 @@ Trobili so rogovi, starešine so klicali, gnali ljudi in jih tolkli. Vse je pobe
 
 Svarun je velel zažgati plamenice. Tudi mesec se je počasi splazil na nebo. Na okopih je mrgolelo golih ljudi z dvignjenimi sulicami, z meči nad glavo, s kiji in sekirami v rokah. Sredi tabora pa je ležala strašna žrtev Morane, vzdihujoča in hropeča, polita s krvjo in posuta z zlomljenimi kopji in s skrhanimi meči. A na dnu žrtev je ležal junak, nada slovenske vojske, pokrit s trupli – Iztok.
 
-# Sedmo poglavje
+## Sedmo poglavje
 
 Minila je polnoč, okoli Hilbudijevega tabora pa je rohnel vik in krik. Krog in krog so goreli ognji, ob njih je bučala vojska kakor na pol blazna. Tabor je bil čisto oropan. S šotorov so potrgali volovske kože in ponjave ter jih razvlekli po rávni. Razgrinjali so jih po tleh in se valjali po njih, se pretepali zanje, jih vlačili drug drugemu izpod telesa in jih trgali na kosce. Oplenili so žitnico in zalogo suhega mesa. Pulili so se za gnjati, raztresali žito, se preganjali od ognja do ognja in razgrajali vsi omoteni od slavne zmage.
 
@@ -826,7 +826,7 @@ Iztoku se je užalilo. Prvikrat se je pomeril v boju, pa se izšolal, da divja, 
 
 Težka glava mu je zdrknila z roke na ležišče; temne misli so hrepenele in blodile po prihodnosti.
 
-# Osmo poglavje
+## Osmo poglavje
 
 Drugega jutra je sklical Svarun vse starešine, veljake in stare, izkušene bojevnike v bojni posvet. Zaukazal je red in mir v vojski. Sešli so se sivoglavi možje in Svarun je spregovoril:
 
@@ -1079,7 +1079,7 @@ Vsepovsod se je razlegel klic: Iztok, Iztok! Križema so tekali mladci in iskali
 Starec je pozval veljake in jim naznanil, da se je nehalo njegovo starostovanje.
 
 Takoj je zasedel konja, molčeč in mračen, pozval Ljubinico in svojce ter odjezdil še tisto noč čez Donavo. Doma se je zaprl v hišo in kakor ranjen lev preležal dolge dneve in še daljše zimske noči na ovnovi koži.
-# Deveto poglavje
+## Deveto poglavje
 
 Barbari, ki so prebivali krog Bizanca po Evropi in po Aziji, so na zimo radi zahajali v carsko mesto. Nekateri so vlačili dragoceno krzno s seboj, da so ga prodajali, drugi so hodili zamenjavat žlahtne kamne za tkanine in steklo, orožje in konjsko opravo. Toda ljudi s takimi nameni ni bilo veliko. Poglavitne množice so sestavljali klateži, potepuhi, ljudje brez doma in brez svojcev, ki so živeli od dne do dne, katerim je bil gospod, kdor jim je nasul več jedi in natočil boljše pijače. Bili so hinavci, zavratni morilci, pretepači in tatjé, godci in glumači – nekateri sicer ne razbojniki, toda lenuhi, ki so rajši jedli podarjen kruh, kakor da bi sami sejali in želi.
 
@@ -1318,7 +1318,7 @@ Iztok se je tresel v divji razburjenosti. Umaknil se je z ravni v hosto in prisl
 Skokoma je bil pri konjih, obrzdal hitro dva – brzde so bile privezane na vratu – planil na enega in izginil po dolini.
 
 Na koncu doline se je pomolila bela postava Radovana iz gošče. Zajahal je. Kopita so zadonela po cesti, ki drži mimo Odrina v Bizanc.
-# Deseto poglavje
+## Deseto poglavje
 
 Čemeren se je prebudil Tunjuš v jutro, ko je sonce že sijalo. Krog oči je imel zakrvavljene kolobarje, težko glavo je naslanjal ob komolce in nejevoljno cmakal z usahlimi usti. Njegov strežaj je prežal na trenutek, ko se dvigne glavar iz spanja. Takoj mu je ponudil v lepi skodeli črnikaste juhe, ki jo je znal okusno pripraviti iz grenkih korenin in ptičjih jeter. Vselej mu je teknila, kadar je popival prejšnji večer. Tudi danes je segel po skodeli, srknil dvakrat, trikrat, nato pa izlil vse na tla.
 
@@ -1537,7 +1537,7 @@ Tunjuš je zaškripal.
 Balambak je šel in prerezal vse mehove, da je vino izteklo.
 
 Ko so se rdečila tla od žlahtnega vina, ki je drlo iz mehov, je Tunjuš prisegal na zlato krsto Atile in na njegovo najlepšo ženo Kerko, da mora v potokih teči kri Slovenov.
-# Enajsto poglavje
+## Enajsto poglavje
 
 Ne priča zaman Svetonij, da je že mogočni vojak in duhoviti samodržec Julij Cezar sklenil premestiti prestol velikanske rimske države na vzhod. Ali bodala so prebodla njegovo srce; zaspalo je hrepenenje po vzhodu – umrlo ni. Kar je zamislil on, kar je zakrivala toga, skozi katero je brizgala kri pod noži zarotnikov, to je izvel Konstantin. Proč je moral železni vladar, proč od Rima, kjer je vsak kamen kričal o svobodnih državljanih, kjer se mu je rogalo stebrovje s Kapitola in mu očitalo tiranstvo. Na vzhod! Tam so doma Kserksi, gospodarji nad blagom in krvjo podložnikov, brez meje in brez pravde.
 
@@ -1702,7 +1702,7 @@ Iz kota se je pojavil tajni carski ovadnik in del roko na vojaka.
 Vse plane, krik, vrči se drobé na tleh, nekdo udari po plamenici, vojaki izginejo skozi vrata, skrivni ovaduh vpije, ali v množici izgubi sled za vojakom. Zakaj zunaj jih objame vrvež ljudi, vse kriči, vse se peha in vpije: »Belizar, Belizar!«
 
 Radovana in Iztoka zgrabi takisto živa reka in ju plavi po cestah in ulicah do pristanišča. Številna množica se je natlačila k morju. Vzkliki »Πολλοί χρόνοι!« »Io triumphe!« »Belizar!« »Panem, circenses!«[6] so pretresali zrak. Na morju so se pojavile tri rdeče luči, signali Belizarjevega brodovja.
-# Dvanajsto poglavje
+## Dvanajsto poglavje
 
 Tοῦτο γὰρ εἴτε τύχη εἴτε τιυὶ ἀρετῆ γέγουε.[7] Tako je vzkiknil Prokop, ko je završil povest o porazu in uničenju vandalskega kraljestva po Belizarju. Kakor pa je spremljala sreča slavnega vojskovodjo, tako je hodila korakoma s srečo bleda zavist, udomačena hčerka bizantinskega dvora. Ko sta primorala lakota in obup Gelimerja, kralja Vandalov, da je prosil Belizarja kruha, ker ga že davno ni videl, gobe, da bi si otrl objokane oči, in citer, da bi opeval svojo bridko usodo, so se zbrali nekateri zavistni poveljniki in poslali hitro jadrnico v Bizanc do Justinijana. Pisali so mu tožbo zoper Belizarja, češ da hoče, prevzeten zbog zmage, postati samovladar, tiran v Afriki. Ni bilo tedaj človeka pod soncem, ki bi bil bolj dostopen ovaduštvu kakor samogoltni Justinijan. Le senca suma, da kdo ruje zoper njegovo krono, je bila dovolj, da so mnogi zgasnili pod rabljevim mečem ali poginili na dnu večne ječe. Ko je »restitutor urbis et orbis«[8] zvedel za te tožbe o Belizarju, se je zaprl v svojo delavnico, prebedel vso noč in razmišljal:
 
@@ -1779,7 +1779,7 @@ Belizar in Gelimer sta šla po stopnicah do prestola. Tam so sneli kralju škrla
 Tudi Belizar je padel na kolena, nevredni hlapec pred neomejenim gospodom urbis et orbis.
 
 Radovan in Iztok sta stala na odru med tekmeci lokostrelci. Radovan je pil navsezgodaj dobro Epafroditovo vino in bil dobre volje. Kričal je s kričači in stegal roke. Iztok je molčal. Pomislil je, da bi bil skoraj tako priveden v cirkus njegov oče, Svarun, svobodni starosta svobodnih Slovenov, da ni podrla njegova strelica Hilbudija. In zahrepenel je nazaj, domov v gradišče, da bi povedal, kaj se godi zmaganim narodom, da bi se napotil od roda do roda Slovenov in prižgal srd v duši, edinost v vseh srcih, večen srd in večen boj Bizancu. A tedaj je dal despot[14] znamenje. Zahrumele so troblje, ljudstvo je zabesnelo od veselja, v areni sta se pojavili dve krasni kvadrigi.
-# Trinajsto poglavje
+## Trinajsto poglavje
 
 Trikrat so naznanile trombe odmor, trikrat so se usuli preko štiridesetih marmornatih stopnic carski in Belizarjevi sužnji ter trosili in delili med ljudstvo krepčila. Hipodrom je vrvel in besnel. Ljudstva so se upijanila od veselja in vina. Bogatini so izgubljali in dobivali neizmerne stave. Po vodi v jarku krog arene so plavali kosi razbitih koles in voz. Pristaši zelenih in višnjevih, najeti kričači, so pregazili jarek ob areni[15], splezali na spino[16], se popenjali na Kačji steber, zlezli celo neizmernemu orjaku, Lisipovemu Herkulu, na tilnik in trgali sikomorne vence z Adama in Eve, jih metali v areno, poklekali pred krasnim kipom po ljubezni koprneče Helene, se bili in pehali med seboj ter slavili zdaj zelene, zdaj višnjeve, od katerih so bili pač bolje plačani.
 
@@ -1944,7 +1944,7 @@ Iztok ni ne slišal ne videl. V njem je živela samo trdna zavest, da pred samim
 Iztokovo oko se je zapičilo v ptiča, kragulj je zapihal in dvignil kremplje. Bizantinski nepremagljivi orel se je stresel pred barbarom. Iztok je naperil strelico vanj, toda v istem trenutku je že švignil s konjem mimo. Tedaj je hipodrom zabučal od jeze kakor silen grom. Gledalci, ogorčeni, ker še ob tretjem pojezdu ni sprožil, so usuli nanj kletve in psovke, ploha razhojenih ostankov sadja je pljusknila v areno, nekateri so snemali sandale in jih metali za njim, drugi so potegnili nože izza pasa in mu pretili. A tedaj se je Iztok v hipu okrenil na konju – bil je že blizu mete – puščica je švistnila in predrla kragulja s tako silo, da se je utrgala verižica, in ptič je padel s prebodenim srcem pred katismo v areno.
 
 Zabesneli vihar jeze se je prelil v navdušenje, da se je tresel v temelju silni cirkus. Iz lož je deževalo lovora, dvorjanke so posule zmagovalca z ruticami, pretkanimi z zlatom, in Irena je s plamenečim veseljem na licih šepetala: »Hvala tebi, Kriste, a tebi, sin naroda moje rodnice – poljub!«
-# Štirinajsto poglavje
+## Štirinajsto poglavje
 
 Valovi v Bosporu so tiho šepetali. Na njih je dremalo brodovje, sanjale so dolgokljune jadrnice, sanjale redke straže na krovih.
 
@@ -2202,7 +2202,7 @@ Iztok, ki ni razumel ves čas ničesar, se je ob teh besedah zdramil, kakor bi s
 Irena pa se mu je samo nasmehljala in se ozrla v njegove oči. Zakaj dvignila se je že zavesa, Epafrodit in Iztok sta se dotaknila s čelom tal in odšla.
 
 Po cestah ni Iztok videl množice, ni slišal vzklikov. Pred njim so gorele modre Irenine oči in trepetal je smehljaj njenih ustnic. Njegovo uho je slišalo samo mehke besede, ki mu jih je izpregovorila neznana, lepa kakor gorska vila. Njegovo srce pa je objela sladkost, kakor bi nad njim razpela cvetoče lipove vejice – tiha Vesna.
-# Petnajsto poglavje
+## Petnajsto poglavje
 
 Iz njegove glave bi se rodila druga Minerva. Šele dva meseca in taki uspehi!
 
@@ -2667,7 +2667,7 @@ Tunjuš je vihral sklonjen na konjskem vratu, kakor bi ga gonili vedomci, in pot
 »Kakor hudič – krščanski,« je zašepetal potnik, ko se je drevil mimo njega Hun. Oddahnil se je in zlezel iz grma ter naglo ubral pot proti gradišču.
 
 Prihajal je potnik Radovan iz Bizanca, da bi izročil pozdrave očetu Svarunu od sina Iztoka.
-# Sedemnajsto poglavje
+## Sedemnajsto poglavje
 
 Po Propontidi se je razlilo sonce, v pristanišču so se gugale ribiške ladje, nad Bosporom so poletavali galebi. Tedaj so nenadoma onemela kládiva pri stavbi cerkve svete Sofije. Sto nadzornikov je zaklicalo stokrat sto zidarjem.
 
@@ -2814,7 +2814,7 @@ Padel je na lice prednjo in prosil v pismeni grščini:
 Teodora se je hladno obrnila k Azbadu in rekla malomarno:
 
 »Dobrega učitelja ima Sloven in velika je bistrost njegovega uma.«
-# Osemnajsto poglavje
+## Osemnajsto poglavje
 
 Stotniji, ki sta igrali pred Teodoro, sta se gostili ob vinu. Iztok pa ni okusil pijače, bežal je pred hrupom iz vojašnice, zasedel konja in odjezdil domov.
 
@@ -2992,7 +2992,7 @@ Azbad se je nagnil k Teodori, vgriznil se v ustnico, toda mirno in sladko izpreg
 »Despojna, ti si vedela, da nadzira nocoj centurio Iztok stražo. Lepo in prijetno bo, ko ga pokratkočasi ‚menih‘ s psalmi.«
 
 Teodori so se zabliskale oči in se zmračilo lepo čelo.
-# Devetnajsto poglavje
+## Devetnajsto poglavje
 
 Iz bliskajočih se oči in mračnega čela je razbral Azbad učinek svoje opazke. Pretkan in vajen spletk je dobro poznal Teodoro, pa je sklepal že v hipodromu, da carica ni ravnodušna do Iztoka. Zavriskala je torej njegova duša, ko je rahlo zaslutil, da se dvigne v despojni ljubosumje. Prepričan je bil, da se mu posreči to vzbuditi, potem sta izgubljena oba, Irena in Iztok, on pa doseže največjo milost in neomejeno zaupanje.
 
@@ -3132,7 +3132,7 @@ Tvoje svetlosti ponižni sluga
 Epafrodit je dal sužnju, ki mu je izročil pismo, takoj mošnjiček zlatov za skopljenca. Na lice mu je legla globoka skrb. Prebral je še enkrat in mrmral:
 
 »V pogibel gresta, ona in on. Uniči ju, oba uniči – prekleta!«
-# Dvajseto poglavje
+## Dvajseto poglavje
 
 Ko se je despojna Teodora po bakanalu prebudila, so se že dolgo igrali sončni žarki po valovih rahlo prebujene Propontide. Trudno je dvignila bele roke in jih položila na mehko svilo. Suženj ni še hotela poklicati. Zakaj zbudil se ji je večer, zbudila noč, ki ji je ugrabila spanec in jo razburila, da je krčevito stiskala z drobnimi rokami mehke blazine. Zatiskala je oči, da bi spala. A vselej sta se dvignila pred njo kipa dveh teles, Irene in Iztoka, ko sta šepetaje sedela na klopci tesno drug ob drugem. Nad njima pa je širila košata pinija temne veje, tista pinija, ki je imela edina pravico, da občuduje samo razkošno radost despojne.
 
@@ -3400,7 +3400,7 @@ In junakovo koleno se je upognilo kakor stroj pred to silo očaranja.
 »Naj ti bo nocojšnja noč dokaz, kako despojna ceni Ireno. Sveta je ona in resnično sem se prepričala, da se trudi za tvojo svetost, ker ti hoče govoriti o resnici. Spoštuj jo, rob njenega krila poljubljaj – nisi še vreden njenih oči. Da jih boš pa vreden, te sedaj ob žaru bliskov imenuje despojna za magistra péditum[26] v palatinski vojski. Še ta mesec dobiš carski reskript! Ljubita se, pokrsti se. Kristus z vama! O tem pa molči, sicer je po tebi, kakor resnično stoji tukaj despojna zemlje in morja!«
 
 Izginila je ob blisku, kakor bi jo demon dvignil v noč. Vesla so udarila. Po nebu so švigale strele. Iztok je stal kakor pribit na mestu. V čolnu je Teodora stiskala pesti pod črno stolo in se zaklinjala na ves pekèl, da njega uniči, njo pa s silo pahne v blato. »Ha, magister peditum! Magister žive gnilobe boš v moji ječi.«
-# Enaindvajseto poglavje
+## Enaindvajseto poglavje
 
 Ko so drugi dan krog poldne vojaki počivali, je skušal Iztok, sprehajajoč se za cvetočimi divjimi akacijami, razbrati misli in preudariti, kaj se je pravzaprav zgodilo ponoči. Strahotno ga je prevzel skrivni obisk Teodore, njena dobrotljivost, da postane magister peditum, vse, vse, noč, bliski, despojna – vse same čarovne moči. Da bi ga Teodora ljubila, despojna barbara – žena Upravde verolomna! In vendar je trdil to Epafrodit in tako so pričale njene oči. Ali njene besede so drugače govorile. Za Ireno da se je bala in sumila, da so Irenini pohodi – pohodi hotnice. In zato je dovolila barbaru, da jo je poljubljal in objemal, zato izvolila temno noč, da bi se prepričala, je li res Ireni za blagovest ali za blazno ljubezen. A kako je zvedela? Kako? Epafrodit tudi ve – res, v Bizancu sliši in prisluškuje vsaka travica, vsak kamenček sredi pota. Če je resnično, kar trdi Epafrodit, je izgubljen on, izgubljena Irena. Sedaj še utegne, k njemu pojde zvečer in mu vse pove. In kaj mu pove Grk? »Beži!« poreče. Beži naj – brez Irene. Ona pa naj bo v krempljih kraguljev? Če jo misli Teodora pogubiti, jo mora on oteti – naj ga stane življenje, ali jo mora vsaj grozno maščevati. Če pa zbeži, ostane Irena sama in ne preboli sramote, s katero jo ogrne ves dvor, ko se zve, da je ljubila njega. Zadrgnila se je tesno krog njega mreža, izhoda ni vedel, obdajal ga je pragozd, nad njim noč, ni znal ne za vzhod ne za zahod. Tako je hodil zamišljen, s povešeno glavo, ko so drugi vojaki ležali in dremali po travi v sencah platán. Sonce je prijetno sijalo; ploha, ki se je ulila proti jutru, je shladila in očistila ozračje, vse je dihalo veselo življenje, cvetni kelihi so se odpirali, divje smokve so cvele, višnje so otresale beli sneg. Mladost v Iztoku je kipela, jasno nebo mu je preganjalo hude misli, dvigali so se mu veseli upi in z njimi vera v Teodorine besede. Bilà je v njegovem srcu neizmerna ljubezen, ki vse upa, vse prenese, ne misli nič hudega. Zahvalil je Svetovita, da ga je čuval doslej, in prosil Devano, naj srečno tke nitke njegove ljubezni.
 
@@ -3568,7 +3568,7 @@ Hitro je plul čoln in naglo došel šajko. Na pol onesveščena je Irena šepet
 Centurio je velel pluti nazaj k vrtu. Tam je dvignil Ireno iz čolna in jo nesel v svojo sobo. Na pisanem blazinjaku je ležala bleda, kakor oranžni cvet, ob njej sta klečala Iztok in Cirila.
 
 Ob isti uri se je plazil po bregu od kraja, kjer so čakali napadalci, Azbad in se v divjem srdu bil po čelu, ker je spodletel od Teodore in njega naperjeni napad na Ireno – ker je ušla golobica jastrebu.
-# Dvaindvajseto poglavje
+## Dvaindvajseto poglavje
 
 Epafrodit je slonel tisto noč pod trižarnim svetilnikom ob mizi, na kateri je bila grmada računov. Za njim je stal Melhior. Večkrat je že obrnil zvesti sluga peščeno uro na alabastrnem stebriču. Toda Epafrodit se ni utrudil. Njegove oči so se vtopile v številke, pergament za pergamentom se je plazil skozi suhe prste; včasih se je pomudil, izpregovoril polglasno besedo, nato urno delal dalje. Silenciarij mu je podajal preko mize s tresočo se roko novih listin in strahoma čakal, kdaj postavi Epafrodit suhi prst na račun in zamrmra: »Pomota!« Toda trgovec se ni oglasil, kup listin se je manjšal, dokler si ni zabeležil Epafrodit zadnje številke na tablico.
 
@@ -3810,7 +3810,7 @@ Takoj za njim je zasedel konja Iztok in hitel k Ireni. Njegovo srce je vriskalo,
 Ko je razgrnil doma plašč in pokazal Ireni in Epafroditu zlatega orla na prsih, se je Irena vzradovala, Grku pa se je zmračilo čelo. Šel je v peristil, gledal dolgo v šumeči vodomet, udaril nato z nogo ob mozaik in vzkliknil:
 
 »Če mi dá carica čoln biserov ali nimb z glave, Epafrodit ji ne zaupa in ne verjame!«
-# Štiriindvajseto poglavje
+## Štiriindvajseto poglavje
 
 Odkar je Iztok raztrgal Teodori mreže, v katere ga je hotela zaplesti njena sla, je bila kakor od besnosti na pol blazna. Večerov ni prirejala, častniki, senatorji in patriciji so čakali dneve in dneve pred njenimi vrati, toda pričakali niso srečne ure, da bi smeli pred despojno. Edini Azbad je zahajal vsak dan k njej. Zakaj on je moral biti sedaj njen zaupnik, njena desna roka za kruto maščevanje.
 
@@ -3977,7 +3977,7 @@ Pri teh besedah je vstopil Epafrodit. Slišal je Ireno, ko je rekla: »Beživa!�
 Iztok je moral oditi, za njim so zrle Irenine objokane oči, vse polne strahu in groze. Iztok se je proseče oziral na Epafrodita, kakor bi govoril:
 
 »Váruj jo, čuvaj golobico in jo tolaži!«
-# Petindvajseto poglavje
+## Petindvajseto poglavje
 
 Dragocena zavesa se je tiho in rahlo strnila nad vhodom, kjer je bivala v bajni sobi Irena. Njeni hrepeneči pogledi so obviseli na zastoru, njene misli pa so odšle za Iztokom v carsko palačo. Čutila je, da je trudna; vtisi ene noči in enega dne so bili tako mogočni, polni smrtne groze in blagoslovljene radosti, strahu in upanja, da je kmalu naslonila trudno glavo na svileno blazino. Težke trepalnice so se strnile, vijolična luč iz dragocene svetilke je razprostrla nad njo tihi obok jasne noči, roka ji je zdrsnila ob telesu. Krog ustnic je zaigral nasmeh, zasanjala je o lepoti prihodnjih dni.
 
@@ -4162,7 +4162,7 @@ Radovan se je oprijel Numide in se prestopil.
 »Hvala, gospod, hvala!«
 
 Radovan je odšel, trdno oprt na sužnja, prek dvorišča.
-# Šestindvajseto poglavje
+## Šestindvajseto poglavje
 
 Irena se je prebudila. Lučka je že davno dogorela, z morjá je plul beli dan. Naglo se je dvignila, mehki kodri so se ji usuli na lice. Popravila si jih je s čela, z oči. Razočarana je gledala po sobi.
 
@@ -4553,8 +4553,9 @@ Radovanu je zdrknila čaša iz roke in se razbila na mozaiku. Zakričal je in se
 
 »Zmagala si, kača, prekleta ...«
 
-##Druga knjiga
-# Prvo poglavje
+# Druga knjiga
+
+## Prvo poglavje
 
 Nad Bizancem je noč. Zvezde na gosto, nebo blizu. S trgov so odšli zadnji igralci. Hladen mir povsod. Le iz tabern ob Zlatem rogu blizu Kampa še doni krik in petje, strune in bobenčki. Toda Kamp je daleč, ob Zlatem rogu je pusto. Patricijev po zlatih palačah ne moti hrup pijanih vojakov in proletarcev. Vsa okna spe.
 
@@ -4732,7 +4733,7 @@ Tlesknil je krepko z rokami. Suženj se je priklonil pred njim.
 »Numida, osedlaj mi konja. Hitro!«
 
 Trgovec si je kot toženec razmršil lase v znamenje žalosti, se preoblekel, ogrnil preprost popotni plašč in odjezdil skozi mesto preko Kampa v vojašnico.
-# Drugo poglavje
+## Drugo poglavje
 
 Ko se je Epafrodit vrnil iz vojašnice, se je že mračilo. Njegovo lice pa je bilo jasno, oči so mu žarele, v licih je plula nervozna rdečica. Poiskal je Radovana.
 
@@ -5013,7 +5014,7 @@ Z levico je odpahnil goste gube plašča, v desnici se je zasvetil križ, ves po
 Množica je ostrmela in onemela. Počasi se je izvil iz nje vzdih, kakor bi vzdihnile prsi, s katerih se je odvalila skala. Po kolenih so drseli k Epafroditu. Solze so kapale na njegove noge, ko so mu poljubljali sandale.
 
 Numida pa je delil s periščem srebrne statére.
-# Tretje poglavje
+## Tretje poglavje
 
 Bližala se je polnoč.
 

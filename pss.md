@@ -1,9 +1,8 @@
 ---
-layout: page
-title: Pod svobodnim soncem
+layout:		post
+title: 		Pod svobodnim soncem
 categories: [pod svobodnim soncem, knjiga]
-permalink: /pss/
-author: "Fran Saleški Finžgar"
+permalink: 	/pss/
 ---
 
 *Prva knjiga*

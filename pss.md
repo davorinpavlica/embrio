@@ -3,7 +3,7 @@ layout:		post
 title: 		Pod svobodnim soncem
 categories: [pod svobodnim soncem, knjiga]
 permalink: 	/pss/
-nonav: 		true
+exclude: true
 ---
 
 *Prva knjiga*

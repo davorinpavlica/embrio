@@ -1,9 +1,8 @@
 ---
-layout:		default
-title: 		Pod svobodnim soncem
+layout:		post
 categories: [pod svobodnim soncem, knjiga]
 permalink: 	/pss/
-exclude: true
+nonav: 		true
 ---
 
 *Prva knjiga*

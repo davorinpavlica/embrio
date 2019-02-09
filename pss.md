@@ -3,6 +3,7 @@ layout: post
 title: Pod svobodnim soncem
 categories: [pod svobodnim soncem, knjiga]
 permalink: /pss/
+author: Fran Saleški Finžgar
 ---
 
 # Pod svobodnim soncem
@@ -80,3 +81,5 @@ Obrazi so se zjasnili, roké so se oklenile mečev in kopij, završalo in zašum
 »Bogovi so nas čuli! Z nami pojdejo, da nam pokažejo njega, ki je zaslonil pot rodu Slovenov; ki nam je obsenčil svobodno sonce in se usedel kakor ris na Donavo, da bi pil kri Slovenov. In pije jo že tri leta. Čez Donavo hodi predrzni Hilbudij in išče naše govedi in naših ovác, kolje naše svobodne sinove in jih vklepa. Požrešnemu Bizantincu diši naša zemlja. Toda veste, bratje, da smo Sloveni vajeni zemljé pridobivati, ne pa dajati. Zato prisezimo maščevanje sinovom in naši zemlji, maščevanje bogovom, ki jih Bizanc zaničuje. Dokler je kaj sonca, dokler je kaj kopij in strelic in mečev, se Sloven ne poda! Smrt Hilbudiju!«
 
 Starec je umolknil, kakor bi mu gnev zadrgnil grlo. Vojska je molčala – pa samo trenutek. Nato je zagrmelo, kakor bi izbruhnil vulkan iz osrčja zemlje. Gozdi kopij so se dvignili, polni tuli so zarožljali, tetive na lokih so zabrnele; visoko nad glavami so se bliskali meči. Če bi mignil, bi se utrgala ta vojska kakor plaz. Gole prsi bi se postavile kakor zid, bizantinski oklepi bi ječali pod sunki kopij, ki jih prožijo te strašne mišice. Krik je donel do neba, vse se je gibalo, kakor bi trgala zver verigo in hlepela, da plane in zmendra vse, kar sreča. Svarunovo lice pa se je smehljalo, sončni žarki so veselo trepetali v njegovih belih kodrih.
+
+(Drugo poglavje)[/pss-2/]

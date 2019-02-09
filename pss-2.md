@@ -3,6 +3,7 @@ layout: post
 title: Pod svobodnim soncem
 categories: [pod svobodnim soncem, knjiga]
 permalink: /pss-2/
+author: Fran Saleški Finžgar
 ---
 
 # Pod svobodnim soncem

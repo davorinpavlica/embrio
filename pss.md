@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Pod svobodnim soncem
 categories: [pod svobodnim soncem, knjiga]
 permalink: /pss/

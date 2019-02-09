@@ -82,4 +82,4 @@ Obrazi so se zjasnili, roké so se oklenile mečev in kopij, završalo in zašum
 
 Starec je umolknil, kakor bi mu gnev zadrgnil grlo. Vojska je molčala – pa samo trenutek. Nato je zagrmelo, kakor bi izbruhnil vulkan iz osrčja zemlje. Gozdi kopij so se dvignili, polni tuli so zarožljali, tetive na lokih so zabrnele; visoko nad glavami so se bliskali meči. Če bi mignil, bi se utrgala ta vojska kakor plaz. Gole prsi bi se postavile kakor zid, bizantinski oklepi bi ječali pod sunki kopij, ki jih prožijo te strašne mišice. Krik je donel do neba, vse se je gibalo, kakor bi trgala zver verigo in hlepela, da plane in zmendra vse, kar sreča. Svarunovo lice pa se je smehljalo, sončni žarki so veselo trepetali v njegovih belih kodrih.
 
-(Drugo poglavje)[/pss-2/]
+#### ... preberi tudi [Drugo poglavje](/pss-2/)

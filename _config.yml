@@ -37,7 +37,6 @@ gregor:
   email: gregor@zvpl.com  
   web: http://www.twitter.com/gregorzalaznik
 
-
 #Komentarji
 disqus:
     shortname: em3r10com
@@ -50,11 +49,6 @@ show_excerpts: enabled
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+ exclude:
+   - Gemfile
+   - Gemfile.lock

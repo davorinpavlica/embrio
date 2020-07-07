@@ -44,7 +44,6 @@ google_analytics: UA-686717-1
 
 show_excerpts: enabled
 
-
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag

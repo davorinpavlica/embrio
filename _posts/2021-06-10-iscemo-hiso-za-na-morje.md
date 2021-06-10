@@ -9,11 +9,11 @@ tags:		blog
 
 **Išče se dvodružinska hiša med Omiškom in Makarsko ... maksimalno tja do Zaostrog. Lahko tudi kaj prej (Pag, Zadar, ...), ampak le preko priporočila. 🔎**
 
-Iščemo:
-- hišo za dve družini, 7 ljudi: 4 odrasle, 3 otroke (4, 7, 10 let) 👨‍👩‍👧👨‍👩‍👧‍👦 (lahko tudi dva ločena apartmaja)
-- vsaj 3 spalnice (otroci so lahko v eni)
+Kar iščemo je:
+- hiša za dve družini, 7 ljudi: 4 odrasle, 3 otroke (4, 7, 10 let) 👨‍👩‍👧👨‍👩‍👧‍👦 (lahko tudi dva ločena apartmaja),
+- vsaj 3 spalnice (otroci so lahko v eni),
 - v terminu med 1. avgustom in 22. avgustom - za cca 14 dni (odvisno od 💶),
-- terasa velik plus, žar tudi 🪵, • najraje v majhni vasici, daleč od turizma.
+- terasa velik plus, žar tudi 🪵, najraje v majhni vasici, daleč od turizma polnega štantov, poceni kitajske robe in toplega piva, 
 - gremo tja, kjer so plaže ful lepe, max 500 m od plaže, če je le-ta lepa, z majhnimi kamenčki.
 
 🏡 Za poletni dopust iščemo hišo (ali dva apartmaja), s seboj naj ima 3 (do 4) spalnice, če ima teraso in zunanji žar, bomo zares dobri prijatelji. Brez (lepega) razgleda naj prosim ne hodi z nami, prav tako pa naj bo urejena in čista. Ni nujno, da je kot iz škatlice in ni nujno da je mlada, a naj bo urejena.
@@ -23,7 +23,7 @@ Iščemo:
 🏖 Ko smo pri plaži: prosimo da je peščena, otroci imajo najrajši majhne kamenčke. Skal, betona in velikih laporovcev ne marajo niti starši. Niti mivke. Tudi da plaža ni predaleč od hiše (bližje je, bolje je) in da ni ravno na vrhu hriba. Saj imamo radi rekreacijo in peš gremo lahko 500 metrov gor ali dol po hribu, kaj dlje od plaže pa ne bi bili. 
 
 🏷 Ponudbe pod šifro: **POLET-YEAH-2021** pošljite v komentarje spodaj, 
-- ali na [FB, kjer sem prvotno objavil ta zapis](https://www.facebook.com/DavorinPavlica/posts/10159704834589260)
+- ali na [FB, kjer sem prvotno objavil ta zapis](https://www.facebook.com/DavorinPavlica/posts/10159704834589260),
 - lahko [tudi na Twitter](https://twitter.com/DavorinPavlica/status/1403064149618266112).
 
 Hvala. 🙏

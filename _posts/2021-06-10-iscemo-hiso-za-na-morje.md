@@ -24,7 +24,7 @@ Iščemo:
 
 🏷 Ponudbe pod šifro: **POLET-YEAH-2021** pošljite v komentarje spodaj, 
 - ali na [FB, kjer sem prvotno objavil ta zapis](https://www.facebook.com/DavorinPavlica/posts/10159704834589260)
-- lahko [tudi na Twitter](https://twitter.com/DavorinPavlica).
+- lahko [tudi na Twitter](https://twitter.com/DavorinPavlica/status/1403064149618266112).
 
 Hvala. 🙏
 

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Iščemo hišo 🏠 za na morje. ⛱ "
-date:       2013-06-10 16:01:42 +0100
+date:       2021-06-10 20:01:42 +0100
 categories: blogi davorin
 author:		davorin
 tags:		blog
@@ -24,28 +24,10 @@ Ker vanjo pridemo 4 odrasli in 3 otroci, naj se rada igra z mladino. Predlagamo 
 
 🏖 Ko smo pri plaži: prosimo da je peščena, otroci imajo najrajši majhne kamenčke. Skal, betona in velikih laporovcev ne marajo niti starši. Niti mivke. Tudi da plaža ni predaleč od hiše (bližje je, bolje je) in da ni ravno na vrhu hriba. Saj imamo radi rekreacijo in peš gremo lahko 500 metrov gor ali dol po hribu, kaj dlje od plaže pa ne bi bili. 
 
-Ponudbe pod šifro: **POLET-YEAH-2021** pošljite v komentarje spodaj, ali na [FB, kjer sem prvotno objavil ta zapis](https://www.facebook.com/DavorinPavlica/posts/10159704834589260)!  
+Ponudbe pod šifro: **POLET-YEAH-2021** pošljite v komentarje spodaj, ali na [FB, kjer sem prvotno objavil ta zapis](https://www.facebook.com/DavorinPavlica/posts/10159704834589260)! Lahko tudi na Twitter.
 
 Hvala. 🙏
 
 P.S.: Stane, Drago, Cene in Košta, ne javljajte se, smo že dobili.  👋
 
 ![Iščemo hišo 🏠 za na morje. ⛱]({{ "/assets/imgs/2021-06-10-hisa za na morje.jpg" | absolute_url }} "Title")
-
----
-Content
-
-## Heading
-
-> Cite
-
-[Description of an](http://url.com)
-
-![Description of na img]({{ "/assets/imgs/2010-01-15-hisa-brdo-01.jpg" | absolute_url }} "Title")
-
-~~prečrtane besede~~
-
-### Video embed inside div -> video container
-<div class="video-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/IyjL0yDwGrU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>

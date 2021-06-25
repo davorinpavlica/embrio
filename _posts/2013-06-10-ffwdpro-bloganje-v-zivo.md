@@ -17,6 +17,8 @@ Jeremy Keith je začel konferenco s predavanjem o duhu spleta (spirit of the web
 
 Naslednji so na vrsti startupi: Jeremy pravi, da je v startup svetu samo vprašanje časa, kdaj bo kakšen od (danes tebi in meni) ljubih servisov šel po gobe. In prav ima. Se še kdo spomni oust.me? Že pet minut nadaljuje o vseh servisih, ki so jih startup podjetja v zadnjih letih ugasnila, ne da bi pomislila na uporabnike in njihove podatke.
 
+![Foto @gregorzalaznik]({{ "/assets/imgs/ffwd01.jpg" | absolute_url }} "ffwdpro")
+
 > Treat our data like it matters!
 
 Po oziranju v preteklost je sedaj čas, da se ozremo v prihodnost. Naj povem, da je Jeremy odličen govorec in v svojo vizijo prihodnosti je lepo vpletel splet, App Store, nekaj zanimivih projektov, knjigo Arthurja C. Clarka in citat:
@@ -32,6 +34,8 @@ Sledi Joe Leech, ki bo predaval o psihologiji za (spletne) oblikovalce.
 Joe govori razlikah v razmišljanju in delovanju ljudji in strojev in o tem kako uporabiti psihologijo, da bi oblikovali bolj efektivno in bolje. In pred kratkim je izdal knjigo Psychology for Designers, za samo 3.5 €. In ne zna čisto dobro uporabljati Do not disturb funkcije na iPhoneu. Drugače pa zelo zabaven možakar.
 
 Smell is incredibly strong as an emotion.
+
+![Foto @gregorzalaznik]({{ "/assets/imgs/ffwd02.jpg" | absolute_url }} "ffwdpro")
 
 Pavza. Po pavzi se vrnem(o). 🙂
 
@@ -51,15 +55,15 @@ Milica Tomić Jovanović + Janko Jovanović: Get Your Hands Dirty
 
 UX / UI geparda iz sosednje Srbije. Predstavljata kako sta snovala projekt GotCourts. Takole približno izgleda oblikovalski proces (design process) za ta projekt:
 
-    research
-    analysis & synthesis
-    ideation & validation
-    delivery & measuring
-
-…
+- research
+- analysis & synthesis
+- ideation & validation
+- delivery & measuring
+- …
 
 Kosilo je. Do 14:00!
-Vitaly Friedman: Responsive Web Design: Clever Tips and Techniques
+
+## Vitaly Friedman: Responsive Web Design: Clever Tips and Techniques
 
 Gospod Smashing Magazine osebno bo predstavljal RWD tehnike, trike in ideje in predstavil nekaj praktičnih primerov.
 
@@ -80,7 +84,8 @@ Ker Vitaly veliko (in hitro) govori (in ker moramo sodelovat in ploskat), bom ka
     …
 
 … in še in še in še. Tip kr ni nehal, dokler ni nehal. Sledi:
-Veronika Burian: Type in Media
+
+## Veronika Burian: Type in Media
 
 Veronika ve veliko stvari o fontih, samo prezentirat jih ne zna prav dobro. Skoraj zaspal, prebral ves Twitter, surfal po eBayu, pa še ni nehala. Agrh. Do naslednjega predavanja sem out.
 Sarah Richards: Revolutionizing Government Content
@@ -92,11 +97,11 @@ Prve petke na odru. Sarah je prava carica in nam razlaga o tem kako so delali vl
     Fix transactions
     Go wholesale
 
-[Strela je udarila v bližini in je v hotelu zmanjkalo elektrike! ]
+[Strela je udarila v bližini in je v hotelu zmanjkalo elektrike!]
 
-Zgodba gov.uk je zelo kompleksna in hkrati , kajti punce in fantje delajo res kompleksno delo. Vse državne spletne strani so (če jih še niso, jih pa bodo) združili v eno.
+Zgodba [gov.uk](https://www.gov.uk/) je zelo kompleksna in hkrati , kajti punce in fantje delajo res kompleksno delo. Vse državne spletne strani so (če jih še niso, jih pa bodo) združili v eno.
 
-Poleg združevanja ziljaužnt d0kumentov in strani so spletne strani gov.uk, pregledne, enostavne, razumljive in očiščene ton neumnosti (recimo članka kako gojiti čebele).
+Poleg združevanja ziljaužnt dokumentov in strani so spletne strani gov.uk, pregledne, enostavne, razumljive in očiščene ton neumnosti (recimo članka kako gojiti čebele).
 
 Tudi naša gov.si bi se lahko zgledovala po tem primeru.
 
@@ -106,11 +111,13 @@ Pa smo nazaj.
 
 Tudi transakcije prenavljajo in strategija je, da če se da kakšno transakcijo opraviti prek spleta (book a driving test), to storimo, ker je prek spleta za državo servis precej cenejši kot po telefonu ali Bob ™ po pošti.
 
-Še najboljše je, da je vsa koda na voljo na GitHubu.
+Še najboljše je, da je [vsa koda na voljo na GitHubu](https://github.com/alphagov).
 
 Še to: koliko so privarčevali s projektom gov.uk?! Jp, toliko.
-Foto @davort
-Leisa Reichelt: Prototyping User Experience
+
+![Foto @davort]({{ "/assets/imgs/ffwd03.jpg" | absolute_url }} "ffwdpro")
+
+## Leisa Reichelt: Prototyping User Experience
 
 Zadnja na konferenci je Leisa, ki je bila na #ffwdpro že lani. Tudi letos se obeta fino predavanje. Tudi ona hitro govori, zato bullet the blue sky:
 BMaEg1UCUAAr6KF

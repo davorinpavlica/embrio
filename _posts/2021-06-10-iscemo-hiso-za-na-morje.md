@@ -7,6 +7,8 @@ author:		davorin
 tags:		blog
 ---
 
+<strike>Hišo smo že našli</strike> ... hvala za pomoč. 🙏
+
 **Išče se dvodružinska hiša med Omiškom in Makarsko ... maksimalno tja do Zaostrog. Lahko tudi kaj prej (Pag, Zadar, ...), ampak le preko priporočila. 🔎**
 
 Kar iščemo je:

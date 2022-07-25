@@ -6,7 +6,7 @@ permalink: /o-zavodu/
 
 OBVESTILO: Zavod Embrio je zaprl svoja vrata decembra 2009, gonilni sili Davorin in Gregor pa še vedno delujeta na področju novih tehnologij.
 
-👷 Trenutno (sta že od leta 2011) zaposlena v [Sportradarju](http://sportradar.com/)! 👩‍💻 Če iščeš službo v IT-ju, v ljubljanski kliki Sportradarja imajo / imamo [službe za takšne in drugačne geekice ali geeke](https://hvalazavseribe.si/sportradar/).
+👷 Od leta 2011 sva zaposlena v [Sportradarju](http://sportradar.com/)! 👩‍💻 Če iščeš službo v IT-ju, v ljubljanski kliki Sportradarja imajo / imamo [službe za takšne in drugačne geekice ali geeke](https://hvalazavseribe.si/sportradar/).
 
 🎙 Od leta 2020 skupaj z Aljotom ustvarjamo podkast [Opravičujemo se za vse nevšečnosti 🐋](https://opravicujemo.se/). Govorimo o življenju, vesolju in sploh vsem. 
 

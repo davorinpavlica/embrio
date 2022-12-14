@@ -4,11 +4,13 @@ title: O em3r10.com
 permalink: /o-zavodu/
 ---
 
-OBVESTILO: Zavod Embrio je zaprl svoja vrata decembra 2009, gonilni sili Davorin in Gregor pa še vedno delujeta na področju novih tehnologij.
+OBVESTILO: Zavod Embrio je zaprl svoja vrata decembra 2009, gonilni sili (Davorin in Gregor (oziroma Peli in Zi)) pa še vedno delujeta na področju novih tehnologij.
 
-👷 Od leta 2011 sva zaposlena v [Sportradarju](http://sportradar.com/)! 👩‍💻 Če iščeš službo v IT-ju, v ljubljanski kliki Sportradarja imajo / imamo [službe za takšne in drugačne geekice ali geeke](https://hvalazavseribe.si/sportradar/).
+👷 Od leta 2012 sva zaposlena v [Sportradarju](http://sportradar.com/)! 👩‍💻 Če iščeš službo v IT-ju, v ljubljanski kliki Sportradarja imajo / imamo [službe za takšne in drugačne geekice ali geeke](https://hvalazavseribe.si/sportradar/).
 
-🎙 Od leta 2020 skupaj z Aljotom ustvarjamo podkast [Opravičujemo se za vse nevšečnosti 🐋](https://opravicujemo.se/). Govorimo o življenju, vesolju in sploh vsem. 
+🎙 Od leta 2020 skupaj z Aljotom ustvarjamo podkast [Opravičujemo se za vse nevšečnosti 🐋](https://opravicujemo.se/). Govorimo o življenju, vesolju in sploh vsem.
+
+P.S.: Arhiv bloga se [zelo počasi polni](https://em3r10.com/blogi/davorin/welcome-to-jekyll/), če bo pa kdaj popoln, pa ne vemo. ;)
 
 #### Bivši opis strani zavoda, ki ga več ni
 

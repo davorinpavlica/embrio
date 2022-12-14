@@ -7,6 +7,8 @@ Družbeniki (zdaj že bivšega) Zavoda Embrio so med leti 1999 in 2009 sodeloval
 
 Spodaj si poglejte, kaj smo naredili in kaj smo delali v sklopu posameznih strani / portalov.
 
+OPOMBA: Peli in Zi že od leta 2012 [delata v Sportradarju](https://hvalazavseribe.si/sportradar/), v prostem času pa skupaj z Aljotom snemajo podkast o eni knjig, natančneje [trilogiji v petih delih](https://opravicujemo.se/).
+
 # ŽVPL
 Eden prvih spletnih časopisov v Sloveniji, vedno v fazi prenove. Kovačeva kobila je vedno črna.
 
@@ -14,7 +16,7 @@ Eden prvih spletnih časopisov v Sloveniji, vedno v fazi prenove. Kovačeva kobi
 Spletno oblikovanje in uporabniška izkušnja.
 
 # RTV Slovenija
-Spletno oblikovanje, XHML postavitev in uporabniška izkušnja.
+Spletno oblikovanje, postavitev (temu po novem rečemo front-end, ampak včasih je bilo drugače) in uporabniška izkušnja.
 
 # Val 202
 Spletno oblikovanje, postavitev in uporabniška izkušnja.
@@ -32,19 +34,19 @@ Spletno oblikovanje in uporabniška izkušnja.
 Spletno oblikovanje, postavitev spletne strani, uporabniška izkušnja in SUV*.
 
 # Leu d.o.o.
-Spletno oblikovanje, XHTML postavitev spletne strani in uporabniška izkušnja.
+Spletno oblikovanje, postavitev spletne strani in uporabniška izkušnja.
 
 # Toš in partnerji, odvetniška pisarna
-Spletno oblikovanje, flash postavitev, ter alternativna XHTML postavitev.
+Spletno oblikovanje, flash postavitev, ter alternativna postavitev.
 
 # TripTracker
-Spletno oblikovanje, XHTML postavitev.
+Spletno oblikovanje, postavitev.
 
 # o2z2
-Spletno oblikovanje, XHTML postavitev spletne strani, uporabniška izkušnja.
+Spletno oblikovanje, postavitev spletne strani, uporabniška izkušnja.
 
-#Hevreka
-Spletno oblikovanje, XHTML postavitev spletne strani, uporabniška izkušnja.
+# Hevreka
+Spletno oblikovanje, postavitev spletne strani, uporabniška izkušnja.
 
 # Tao Adventure
 Spletno oblikovanje, postavitev spletne strani, uporabniška izkušnja in SUV*.

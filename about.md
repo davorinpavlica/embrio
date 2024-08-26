@@ -10,11 +10,11 @@ OBVESTILO: Zavod Embrio je zaprl svoja vrata decembra 2009, gonilni sili (Davori
 
 🎙 Od leta 2020 skupaj z Aljotom ustvarjamo podkast [Opravičujemo se za vse nevšečnosti 🐋](https://opravicujemo.se/). Govorimo o življenju, vesolju in sploh vsem.
 
-P.S.: Arhiv bloga se [zelo počasi polni](https://em3r10.com/blogi/davorin/welcome-to-jekyll/), če bo pa kdaj popoln, pa ne vemo. ;)
+P.S.: Arhiv bloga se zelo zelo zelo [zelo počasi polni](https://em3r10.com/blogi/davorin/welcome-to-jekyll/), če bo pa kdaj popoln, pa ne vemo. ;)
 
 #### Bivši opis strani zavoda, ki ga več ni
 
-Na tej strani bomo oz. smo leporečili o tem zakaj je naš zavod v osnovi bil osnovan, s čim smo pripomogli, kaj poleg [ŽVPL-a](http:/www.zvpl.com) smo delali za skupno dobro, kakšna so (bila) naša vodila, če imamo moto oz. motorko.
+Na tej strani bomo oz. smo leporečili o tem zakaj je naš zavod v osnovi bil osnovan, s čim smo pripomogli, kaj poleg [ŽVPL-a](http://www.zvpl.com) smo delali za skupno dobro, kakšna so (bila) naša vodila, če imamo moto oz. motorko.
 
 Ko smo ravno pri motorki, o nabavi motorke razmišljamo zadnje čase samo za uporabno na neplačnikih, a ne vemo, točno katero bi kupili, Štilarco ali Huskvarno.
 

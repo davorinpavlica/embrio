@@ -7,8 +7,7 @@ title : Embrio
 tagline: Spletna mesta niso vasi
 email: d@zvpl.com
 description: >- # this means to ignore newlines until "baseurl:"
-  To je nekdaj bil blog, ki sta ga pisala @davorinpavlica in @gregorzalaznik. 
-  Strežnik je "odletel" nekje 2017 in zdaj se zapisi čudežno pojavljajo na strani.
+  "To je nekdaj bil blog, ki sta ga pisala @davorinpavlica in @gregorzalaznik. Strežnik je "odletel" nekje 2017 in zdaj se zapisi čudežno pojavljajo na strani."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://em3r10.com
 twitter_username: davorinpavlica
@@ -42,7 +41,7 @@ disqus:
 #Google Analyics
 google_analytics: UA-686717-1
 
-show_excerpts: enabled
+show_excerpts: true
 
 plugins:
   - jekyll-paginate
